@@ -5,7 +5,8 @@ function test_collision_rectangles(rect1, rect2) {
 
     let rect1Droit = rect1.x + rect1.width
     let rect1Bas = rect1.y + rect1.heigt
-    
+    let rect2Droit = rect2.x + rect2.width
+
 }
 
 function test_collision_cercles(cercle1, cercle2) {
